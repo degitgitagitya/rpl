@@ -88,19 +88,11 @@
 
                 <div class="content">
                     <div class="title m-b-md">
-                        Laravel <br> <small>Role Permissions</small>
-                    </div>
-
-                    <div class="links">
-                         <a href="http://qcode.in">visit QCode.in for tutorial</a>
+                        Laravel
                     </div>
                 </div>
             </div>
 
-            <div id="particles-js"></div>
-
-
-            <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
             <script>
                 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
                 particlesJS.load('particles-js', 'js/particlesjs-config.json', function() {
